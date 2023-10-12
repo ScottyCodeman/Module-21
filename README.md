@@ -2,18 +2,16 @@
 
 ![alt=""](Images/application-image.png)
 
-## Evidence of Kasei Coin contract creation, compilation and deployment
-### Coin contract
-![coin](Images/KaseiCoinsol.png)
+## Evidence of KaseiCoin contract creation, compilation and deployment
+### Coin contract Crowdsale contract and Deployer
+![compile](Images/streamlitrecordingcontractcomplie.gif)
 
-### Crowdsale contract
-![crowdsale](Images/KaseiCoinCrowdsale.png)
+### Deployment of contracts with  `Meta mask`, `Ganache` and `Remix` confirmations
 
-### Deployment `Meta mask` confirmation
+![deployed](Images/streamlitrecordingdeployment.gif)
 
-![deployed](Images/KaseiCoinCrowdsaleDeployer.png)
+## Evidence of KaseiCoin Purchase
+### Purchase of KaseiCoin with `Meta mask`, `Ganache` confirmations
+![purchase](Images/streamlitrecodingpurchase.gif)
 
-### `Ganache` and `Remix` confirmations
-
-![ganache](Images/KaseiGanacheDeplomentconfirm.png)
-![remix](Images/KaseiRemixDeploymentConfirm.png)
+### Thank you for viewing my project
